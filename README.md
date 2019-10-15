@@ -8,7 +8,7 @@
 pod repo add OpenSpecs https://github.com/tingke/OpenSpecs.git
 ```
 
-创建一个组件库
+创建一个组件库，并编写相关代码
 
 ```
 pod lib create CustomLib
